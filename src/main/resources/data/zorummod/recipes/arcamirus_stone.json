@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " G ",
+    "SVF",
+    " Z "
+  ],
+  "key":
+  {
+    "Z":
+    {
+      "item": "zorummod:zorumite"
+    },
+    "S":
+    {
+      "item": "zorummod:zorumite_of_strength"
+    },
+    "V":
+    {
+      "item": "zorummod:void_block"
+    },
+    "F":
+    {
+      "item": "zorummod:strange_zorumite"
+    },
+    "G":
+    {
+      "item": "zorummod:zorumite_of_light"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:arcamirus_stone",
+    "count": 1
+  }
+}

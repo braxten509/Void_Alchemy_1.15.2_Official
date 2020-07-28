@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:zorumite"
+    },
+    {
+      "item": "zorummod:stone_stick"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:zorumite_dagger",
+    "count": 1
+  }
+}

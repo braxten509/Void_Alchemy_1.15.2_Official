@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "III",
+    "IRI",
+    "III"
+  ],
+  "key":
+  {
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "R":
+    {
+      "item": "zorummod:zorumite_of_strength"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:crimson_key_block",
+    "count": 1
+  }
+}

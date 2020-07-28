@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:mircanters_dust"
+    },
+    {
+      "item": "zorummod:mircanters_dust"
+    },
+    {
+      "item": "zorummod:mircanters_dust"
+    },
+    {
+      "item": "zorummod:mircanters_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:bag_of_mircanters_dust",
+    "count": 1
+  }
+}

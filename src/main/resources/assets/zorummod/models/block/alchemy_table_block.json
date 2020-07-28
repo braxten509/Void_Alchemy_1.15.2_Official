@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "zorummod:blocks/alchemy_table_front",
+        "down": "minecraft:block/oak_planks",
+        "up": "zorummod:blocks/alchemy_table_top",
+        "north": "zorummod:blocks/alchemy_table_front",
+        "east": "zorummod:blocks/alchemy_table_side",
+        "south": "zorummod:blocks/alchemy_table_side",
+        "west": "zorummod:blocks/alchemy_table_front"
+    }
+}

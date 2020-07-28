@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "VRV",
+    "VBV",
+    "VZV"
+  ],
+  "key":
+  {
+    "Z":
+    {
+      "item": "zorummod:zorumite"
+    },
+    "B":
+    {
+      "item": "minecraft:book"
+    },
+    "V":
+    {
+      "item": "zorummod:void_dust"
+    },
+    "R":
+    {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:ominous_book",
+    "count": 1
+  }
+}

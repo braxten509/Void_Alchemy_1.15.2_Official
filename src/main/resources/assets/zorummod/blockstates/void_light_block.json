@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "zorummod:block/void_light_block" }
+  }
+}

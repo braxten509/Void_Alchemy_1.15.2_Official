@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:glimmer_of_hope"
+    },
+    {
+      "item": "zorummod:glimmer_of_hope"
+    },
+    {
+      "item": "zorummod:zorumite"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:zorumite_of_light",
+    "count": 1
+  }
+}

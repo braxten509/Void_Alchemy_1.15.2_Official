@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "ZZ ",
+    " S ",
+    " S "
+  ],
+  "key":
+  {
+    "Z":
+    {
+      "item": "zorummod:zorumite"
+    },
+    "S":
+    {
+      "item": "zorummod:stone_stick"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:zorumite_hoe",
+    "count": 1
+  }
+}

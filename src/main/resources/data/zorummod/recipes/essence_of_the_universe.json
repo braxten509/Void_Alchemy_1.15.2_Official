@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " V ",
+    "GUS",
+    " V "
+  ],
+  "key":
+  {
+    "V":
+    {
+      "item": "zorummod:void_dust"
+    },
+    "S":
+    {
+      "item": "zorummod:supernatural_strength"
+    },
+    "G":
+    {
+      "item": "zorummod:glimmer_of_hope"
+    },
+    "U":
+    {
+      "item": "zorummod:universe_dust"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:essence_of_the_universe",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zorummod:blocks/stage4_block"
+  }
+}

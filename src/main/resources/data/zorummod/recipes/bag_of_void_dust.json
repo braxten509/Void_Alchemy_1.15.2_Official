@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:void_dust"
+    },
+    {
+      "item": "zorummod:void_dust"
+    },
+    {
+      "item": "zorummod:void_dust"
+    },
+    {
+      "item": "zorummod:void_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:bag_of_void_dust",
+    "count": 1
+  }
+}

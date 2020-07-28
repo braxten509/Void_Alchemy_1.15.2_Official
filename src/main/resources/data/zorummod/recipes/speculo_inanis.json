@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " G ",
+    "ZVZ",
+    " G "
+  ],
+  "key":
+  {
+    "Z":
+    {
+      "item": "zorummod:zorumite"
+    },
+    "G":
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    "V":
+    {
+      "item": "zorummod:void_block"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:speculo_inanis",
+    "count": 1
+  }
+}

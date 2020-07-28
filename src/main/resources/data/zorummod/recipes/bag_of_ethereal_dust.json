@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:ethereal_dust"
+    },
+    {
+      "item": "zorummod:ethereal_dust"
+    },
+    {
+      "item": "zorummod:ethereal_dust"
+    },
+    {
+      "item": "zorummod:ethereal_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:bag_of_ethereal_dust",
+    "count": 1
+  }
+}

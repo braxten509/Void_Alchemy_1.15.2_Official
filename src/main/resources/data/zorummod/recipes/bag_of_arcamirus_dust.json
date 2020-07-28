@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:arcamirus_dust"
+    },
+    {
+      "item": "zorummod:arcamirus_dust"
+    },
+    {
+      "item": "zorummod:arcamirus_dust"
+    },
+    {
+      "item": "zorummod:arcamirus_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:bag_of_arcamirus_dust",
+    "count": 1
+  }
+}

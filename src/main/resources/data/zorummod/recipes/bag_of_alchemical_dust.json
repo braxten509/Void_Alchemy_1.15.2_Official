@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:alchemical_dust"
+    },
+    {
+      "item": "zorummod:alchemical_dust"
+    },
+    {
+      "item": "zorummod:alchemical_dust"
+    },
+    {
+      "item": "zorummod:alchemical_dust"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:bag_of_alchemical_dust",
+    "count": 1
+  }
+}

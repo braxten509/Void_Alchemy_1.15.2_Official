@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:supernatural_strength"
+    },
+    {
+      "item": "zorummod:supernatural_strength"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:apple_of_strength",
+    "count": 1
+  }
+}

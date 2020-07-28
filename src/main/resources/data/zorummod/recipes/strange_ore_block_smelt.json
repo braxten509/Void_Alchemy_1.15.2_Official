@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zorummod:strange_ore_block"
+  },
+  "result": "zorummod:strange_zorumite",
+  "experience": 1.0,
+  "cookingtime": 200
+}

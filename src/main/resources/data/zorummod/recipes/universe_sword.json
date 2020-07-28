@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " U ",
+    " U ",
+    " S "
+  ],
+  "key":
+  {
+    "U":
+    {
+      "item": "zorummod:essence_of_the_universe"
+    },
+    "S":
+    {
+      "item": "zorummod:stone_stick"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:universe_sword",
+    "count": 1
+  }
+}

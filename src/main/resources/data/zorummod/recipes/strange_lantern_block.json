@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zorummod:strange_zorumite"
+    },
+    {
+      "item": "minecraft:glowstone"
+    }
+  ],
+  "result":
+  {
+    "item": "zorummod:strange_lantern_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    " R ",
+    "AIA",
+    " R "
+  ],
+  "key":
+  {
+    "A":
+    {
+      "item": "zorummod:alchemical_dust"
+    },
+    "R":
+    {
+      "item": "zorummod:arcamirus_dust"
+    },
+    "I":
+    {
+      "item": "minecraft:iron_ore"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:prototype_block",
+    "count": 1
+  }
+}

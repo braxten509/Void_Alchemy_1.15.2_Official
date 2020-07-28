@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key":
+  {
+    "x":
+    {
+      "item": "zorummod:void_dust"
+    }
+  },
+  "result":
+  {
+    "item": "zorummod:void_block",
+    "count": 1
+  }
+}

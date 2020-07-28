@@ -1,0 +1,32 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "display": {
+        "title": {
+            "text": "Test",
+            "color": "gold"
+        },
+        "description": {
+            "text": "Travel to the void itself..."
+        },
+        "icon": {
+            "item": "zorummod:zorumite"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "zorummod:textures/gui/advancements/backgrounds/dungeon_block.png"
+    },
+    "criteria": {
+        "Go to Void": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "overworld",
+                "to": "void"
+            }
+        }
+    },
+    "rewards": {
+        "experience": 100
+    }
+}

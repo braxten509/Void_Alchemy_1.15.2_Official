@@ -1,0 +1,87 @@
+{
+  "test_sound": {
+    "category": "player",
+    "subtitle": "test_sound",
+    "sounds": [
+      {
+        "name": "zorummod:misc/test_sound",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:misc/test_sound2",
+        "stream": true
+      }
+    ]
+  },
+  "entity.void_walker.whisper": {
+    "category": "entity",
+    "subtitle": "entity.void_walker.whisper",
+    "sounds": [
+      {
+        "name": "zorummod:entity/entity.void_walker.whisper",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.whisper2",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.whisper3",
+        "stream": true
+      }
+    ]
+  },
+  "entity.void_walker.hurt": {
+    "category": "player",
+    "subtitle": "entity.void_walker.hurt",
+    "sounds": [
+      {
+        "name": "zorummod:entity/entity.void_walker.hurt",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.hurt2",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.hurt3",
+        "stream": true
+      }
+    ]
+  },
+  "entity.void_walker.death": {
+    "category": "entity",
+    "subtitle": "entity.void_walker.death",
+    "sounds": [
+      {
+        "name": "zorummod:entity/entity.void_walker.death",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.death2",
+        "stream": true
+      },
+
+      {
+        "name": "zorummod:entity/entity.void_walker.death3",
+        "stream": true
+      }
+    ]
+  },
+  "entity.void_walker.step": {
+    "category": "player",
+    "subtitle": "entity.void_walker.step",
+    "sounds": [
+      {
+        "name": "zorummod:entity/entity.void_walker.step",
+        "stream": true
+      }
+    ]
+  }
+}

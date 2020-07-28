@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zorummod:zorumite_ore_block"
+  },
+  "result": "zorummod:zorumite",
+  "experience": 1.0,
+  "cookingtime": 200
+}
